@@ -10,8 +10,8 @@ I am a full stack developer. Currently busy at learing and aquiring new coding s
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/remin t roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="remin t roy" height="30" width="40" /></a>
-<a href="https://fb.com/remin t roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="remin t roy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/remin-t-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="remin t roy" height="30" width="40" /></a>
+<a href="https://fb.com/remin.troy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="remin t roy" height="30" width="40" /></a>
 <a href="https://instagram.com/remin_t_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="remin_t_roy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/reminz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="reminz" height="30" width="40" /></a>
 </p>
