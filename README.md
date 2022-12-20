@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi 👋, I'm Remin T Roy
 
-<!--
-**remindev/remindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate full stack developer.    
+I am a self taught full stack developer. Currently busy at learing and aquiring new coding skills. Focused on full stack development in MERN stalk. Intrested in creating interative web and mobile games. To see my works Explore the repo's
 
-Here are some ideas to get you started:
+- 💬 Ask me about **MERN**
+- 📫 How to reach me **contact@remin.in**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+- [LinkedIn](https://linkedin.com/in/remin-t-roy)
+- [Facebook](https://www.facebook.com/remin.troy)
+- [Instagram](https://instagram.com/remin_t_roy)
+- [Youtube](https://www.youtube.com/c/reminz)
+
+### Languages and Tools 
+
+`Arduino` `AWS` `Bootstrap` `w3schools` `Expressjs` `Figma` `Firebase` `Framer` `Git` `Heroku` `Linux` `MongoDB` `MySql` `Nginx` `NodeJS` `PostMan` `ReactJS` `Sass` `TypeScript` `JavaScript` `HTML` `CSS` `Express` `AdobeXD` `Ubuntu` `VS-Code`
+
+### Some of my works
+
+[`NESTER-ECommerce-Nodejs`](https://remin.tk)
+[`Fifteen-Puzzle`](https://game.remin.tk) 
+[`Quiz game 1`](https://game.remin.tk/quiz-a) 
+[`Quiz game 2`](https://game.remin.tk/quiz-b)
