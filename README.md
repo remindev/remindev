@@ -26,5 +26,6 @@ I am a full stack developer. Currently busy at learing and aquiring new coding s
 ### Got an idea about me ?...
 ![img](https://github-readme-stats.vercel.app/api?username=remindev&show_icons=true&locale=en)    
       
-      
+<!--      
 ![img](https://github-readme-streak-stats.herokuapp.com/?user=remindev&)
+-->
