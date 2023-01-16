@@ -17,8 +17,3 @@ I am a full stack developer. Currently busy at learing and aquiring new coding s
 `Arduino` `AWS` `Bootstrap` `w3schools` `Expressjs` `Figma` `Firebase` `Framer` `Git` `Heroku` `Linux` `MongoDB` `MySql` `Nginx` `NodeJS` `PostMan` `ReactJS` `Sass` `TypeScript` `JavaScript` `HTML` `CSS` `Express` `AdobeXD` 
 
 
-![img](https://github-readme-stats.vercel.app/api?username=remindev&show_icons=true&locale=en?theme=dark)    
-      
-<!--      
-![img](https://github-readme-streak-stats.herokuapp.com/?user=remindev&)
--->
