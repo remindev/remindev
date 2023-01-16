@@ -16,4 +16,9 @@ I am a self taught full stack developer. Currently busy at learing and aquiring 
 
 `Arduino` `AWS` `Bootstrap` `w3schools` `Expressjs` `Figma` `Firebase` `Framer` `Git` `Heroku` `Linux` `MongoDB` `MySql` `Nginx` `NodeJS` `PostMan` `ReactJS` `Sass` `TypeScript` `JavaScript` `HTML` `CSS` `Express` `AdobeXD` `Ubuntu`
 
+### Some of my works
 
+[`NESTER-ECommerce-Nodejs`](https://remin.tk)
+[`Fifteen-Puzzle`](https://game.remin.tk) 
+[`Quiz game 1`](https://game.remin.tk/quiz-a) 
+[`Quiz game 2`](https://game.remin.tk/quiz-b)
