@@ -1,6 +1,6 @@
-<h1 >Hi 👋, I'm Remin T Roy</h1>
-<h3 >A passionate full stack developer from India</h3><br>
+## Hi 👋, I'm Remin T Roy
 
+### A passionate full stack developer.    
 I am a full stack developer. Currently busy at learing and aquiring new coding skills. Focused on full stack development in MERN stalk 
 
 - 💬 Ask me about **MERN**
