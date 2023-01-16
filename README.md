@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Remin T Roy
 
 ### A passionate full stack developer.    
-I am a full stack developer. Currently busy at learing and aquiring new coding skills. Focused on full stack development in MERN stalk 
+I am a self taught full stack developer. Currently busy at learing and aquiring new coding skills. Focused on full stack development in MERN stalk 
 
 - 💬 Ask me about **MERN**
 - 📫 How to reach me **reminremin01@gmail.com**
