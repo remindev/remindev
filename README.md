@@ -14,7 +14,7 @@ I am a self taught full stack developer. Currently busy at learing and aquiring 
 
 ### Languages and Tools 
 
-`Arduino` `AWS` `Bootstrap` `w3schools` `Expressjs` `Figma` `Firebase` `Framer` `Git` `Heroku` `Linux` `MongoDB` `MySql` `Nginx` `NodeJS` `PostMan` `ReactJS` `Sass` `TypeScript` `JavaScript` `HTML` `CSS` `Express` `AdobeXD` `Ubuntu`
+`Arduino` `AWS` `Bootstrap` `w3schools` `Expressjs` `Figma` `Firebase` `Framer` `Git` `Heroku` `Linux` `MongoDB` `MySql` `Nginx` `NodeJS` `PostMan` `ReactJS` `Sass` `TypeScript` `JavaScript` `HTML` `CSS` `Express` `AdobeXD` `Ubuntu` `VS-Code`
 
 ### Some of my works
 
