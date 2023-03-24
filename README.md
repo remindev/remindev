@@ -4,7 +4,7 @@
 I am a self taught full stack developer. Currently busy at learing and aquiring new coding skills. Focused on full stack development in MERN stalk. Intrested in creating interative web and mobile games. To see my works Explore the repo's
 
 - 💬 Ask me about **MERN**
-- 📫 How to reach me **reminremin01@gmail.com**
+- 📫 How to reach me **contact@remin.in**
 
 ### Connect with me
 - [LinkedIn](https://linkedin.com/in/remin-t-roy)
