@@ -16,6 +16,12 @@
 .dummy {
   height: 100px;
 }
+.dummy.md {
+  height: 200px;
+}
+.dummy.xl {
+  height: 400px;
+}
 
 .link {
   text-decoration: none;
@@ -23,7 +29,15 @@
 }
 
 section {
-  height: 100vh;
+  scroll-snap-align: start;
+  position: relative;
+  display: flex !important;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.snapChild {
+  scroll-snap-align: start;
 }
 
 body {
@@ -44,10 +58,38 @@ body {
 
 .flex {
   display: flex;
+  flex-grow: 1;
+  width: 100%;
 }
 .flex.center {
   align-items: center;
   justify-content: center;
+}
+.flex.column {
+  flex-direction: column;
+}
+.flex.align {
+  align-items: center;
+}
+.flex.justify {
+  justify-content: center;
+}
+.flex.gap {
+  gap: 10px;
+}
+.flex.gap-20 {
+  gap: 20px;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.p-30 {
+  padding: 30px;
+}
+.relative {
+  position: relative;
 }
 
 .glassy {
@@ -56,3 +98,7 @@ body {
 .glassy.border {
   border: 1px solid gray;
 }
+
+// .image {
+//   filter: hue-rotate(90deg);
+// }
