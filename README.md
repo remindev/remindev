@@ -18,7 +18,5 @@ I am a self taught full stack developer. Currently busy at learing and aquiring 
 
 ### Some of my works
 
-[`NESTER-ECommerce-Nodejs`](https://remin.tk)
-[`Fifteen-Puzzle`](https://game.remin.tk) 
-[`Quiz game 1`](https://game.remin.tk/quiz-a) 
-[`Quiz game 2`](https://game.remin.tk/quiz-b)
+[`DYNOTXT-Blog app`](https://dynotxt.com)
+[`Games`](https://game.remin.tk) 
