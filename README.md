@@ -1,22 +1,22 @@
 ## Hi 👋, I'm Remin T Roy
 
-### A passionate full stack developer.    
-I am a self taught full stack developer. Currently busy at learing and aquiring new coding skills. Focused on full stack development in MERN stalk. Intrested in creating interative web and mobile games. To see my works Explore the repo's
+#### A passionate full-stack developer.    
+I am a self-taught full-stack developer. Currently busy learning and acquiring new coding skills. Focused on full stack development in MERN stack. Interested in creating interactive web and mobile games. To see my works Explore the repos
 
 - 💬 Ask me about **MERN**
 - 📫 How to reach me **contact@remin.in**
 
-### Connect with me
+#### Connect with me
 - [LinkedIn](https://linkedin.com/in/remin-t-roy)
-- [Facebook](https://www.facebook.com/remin.troy)
 - [Instagram](https://instagram.com/remin_t_roy)
 - [Youtube](https://www.youtube.com/c/reminz)
 
-### Languages and Tools 
+#### Languages and Tools 
 
-`Arduino` `AWS` `Bootstrap` `w3schools` `Expressjs` `Figma` `Firebase` `Framer` `Git` `Heroku` `Linux` `MongoDB` `MySql` `Nginx` `NodeJS` `PostMan` `ReactJS` `Sass` `TypeScript` `JavaScript` `HTML` `CSS` `Express` `AdobeXD` `Ubuntu` `VS-Code`
+`Arduino` `AWS` `Bootstrap` `w3schools` `Expressjs` `Figma` `Firebase` `Framer` `Git` `Heroku` `Linux` `MongoDB` `MySql` `Nginx` `NodeJS` `PostMan` `ReactJS` `Sass` `TypeScript` `JavaScript` `HTML` `CSS` `Express` `AdobeXD` `Ubuntu` `VS-Code` `Rabbit-MQ` `Docker` `Kubernetes` `Bash` 
 
-### Some of my works
+#### Some of my works
 
-[`DYNOTXT-Blog app`](https://dynotxt.com)
-[`Games`](https://game.remin.tk) 
+[**dynotxt-blog**](https://dynotxt.com) -
+[**nester-ecommerce**](https://shop.dynotxt.com) -
+[**fifteen-puzzle**](https://game.remin.tk) 
