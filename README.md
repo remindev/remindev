@@ -19,4 +19,5 @@ I am a self taught full stack developer. Currently busy at learing and aquiring 
 ### Some of my works
 
 [`DYNOTXT-Blog app`](https://dynotxt.com)
+[`Nester-Ecommerce`](https://shop.dynotxt.com)
 [`Games`](https://game.remin.tk) 
