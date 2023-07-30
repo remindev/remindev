@@ -8,7 +8,6 @@ I am a self taught full stack developer. Currently busy at learing and aquiring 
 
 ### Connect with me
 - [LinkedIn](https://linkedin.com/in/remin-t-roy)
-- [Facebook](https://www.facebook.com/remin.troy)
 - [Instagram](https://instagram.com/remin_t_roy)
 - [Youtube](https://www.youtube.com/c/reminz)
 
