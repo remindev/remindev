@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Remin T Roy
 
 #### A passionate full-stack developer.    
-I am a self-taught full-stack developer. Currently busy learning and acquiring new coding skills. Focused on full stack development in MERN stalk. Interested in creating interactive web and mobile games. To see my works Explore the repos
+I am a self-taught full-stack developer. Currently busy learning and acquiring new coding skills. Focused on full stack development in MERN stack. Interested in creating interactive web and mobile games. To see my works Explore the repos
 
 - 💬 Ask me about **MERN**
 - 📫 How to reach me **contact@remin.in**
