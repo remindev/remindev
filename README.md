@@ -19,4 +19,4 @@ I am a self-taught full-stack developer. Currently busy learning and acquiring n
 
 [**dynotxt-blog**](https://dynotxt.com) -
 [**nester-ecommerce**](https://shop.dynotxt.com) -
-[**fifteen-puzzle**](https://game.remin.tk) 
+[**fifteen-puzzle**](https://game.remin.in) 
