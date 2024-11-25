@@ -107,11 +107,11 @@ const TitleSection = () => {
             </Flex>
           </motion.div>
 
-          <Flex sx={{ position: "absolute", bottom: 100 }} pt={50} justify="center" direction={"column"} align={"center"}>
+          {/* <Flex sx={{ position: "absolute", bottom: 100 }} pt={50} justify="center" direction={"column"} align={"center"}>
             <motion.div animate={{ y: [5, -5, 5] }} transition={{ repeat: Infinity, duration: 3 }}>
               <Text size="sm">Scroll to see projects</Text>
             </motion.div>
-          </Flex>
+          </Flex> */}
         </Container>
       </section>
     </>

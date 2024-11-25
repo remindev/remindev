@@ -26,7 +26,7 @@ function App() {
   return (
     <Box ref={mainContainerRef} sx={{ position: "fixed", left: 0, right: 0, height: "100vh", overflowX: "hidden", scrollSnapType: "y mandatory" }}>
       <div>
-        <motion.div style={{ scaleX: scrollYProgress, position: "fixed", zIndex: 100, top: 0, left: 0, right: 0, height: "2px", background: primaryColor }} />
+        {/* <motion.div style={{ scaleX: scrollYProgress, position: "fixed", zIndex: 100, top: 0, left: 0, right: 0, height: "2px", background: primaryColor }} /> */}
         <AnimatedCursor
           innerSize={8}
           outerSize={35}
@@ -48,7 +48,7 @@ function App() {
       </div>
 
       <TitleSection />
-      <ProjectsSection />
+      {/* <ProjectsSection /> */}
 
       {/* <section>
         <Container className="flex center column h-full">
@@ -62,7 +62,7 @@ function App() {
         </Container>
       </section> */}
 
-      <div className="dummy"></div>
+      {/* <div className="dummy"></div> */}
     </Box>
   );
 }
