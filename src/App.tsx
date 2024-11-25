@@ -1,11 +1,15 @@
 import { Box, useMantineTheme } from "@mantine/core";
 import { useEffect, useRef, useState } from "react";
 import Loading from "./components/Loading";
-import { AnimatePresence, motion, useScroll } from "framer-motion";
+import {
+  AnimatePresence,
+  motion,
+  // useScroll 
+} from "framer-motion";
 import BackgroundBanner from "./components/BackgroundBanner";
 import AnimatedCursor from "react-animated-cursor";
 import TitleSection from "./sections/Title";
-import ProjectsSection from "./sections/ Projects";
+// import ProjectsSection from "./sections/ Projects";
 
 function App() {
   const [isLoading, setIsLoading] = useState(true);
@@ -16,12 +20,16 @@ function App() {
     }, 2000);
   }, []);
 
-  const { colorScheme, colors, primaryColor } = useMantineTheme();
+  const {
+    colorScheme,
+    colors,
+    // primaryColor 
+  } = useMantineTheme();
 
   const bg_inverse = colorScheme != "dark" ? colors.dark[5] : colors.gray[5];
 
   const mainContainerRef = useRef(null);
-  const { scrollYProgress } = useScroll({ container: mainContainerRef });
+  // const { scrollYProgress } = useScroll({ container: mainContainerRef });
 
   return (
     <Box ref={mainContainerRef} sx={{ position: "fixed", left: 0, right: 0, height: "100vh", overflowX: "hidden", scrollSnapType: "y mandatory" }}>
