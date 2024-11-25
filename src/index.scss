@@ -16,9 +16,11 @@
 .dummy {
   height: 100px;
 }
+
 .dummy.md {
   height: 200px;
 }
+
 .dummy.xl {
   height: 400px;
 }
@@ -61,22 +63,32 @@ body {
   flex-grow: 1;
   width: 100%;
 }
+
 .flex.center {
   align-items: center;
   justify-content: center;
 }
+
 .flex.column {
   flex-direction: column;
 }
+
 .flex.align {
   align-items: center;
 }
+
+.flex.wrap {
+  flex-wrap: wrap;
+}
+
 .flex.justify {
   justify-content: center;
 }
+
 .flex.gap {
   gap: 10px;
 }
+
 .flex.gap-20 {
   gap: 20px;
 }
@@ -88,6 +100,7 @@ body {
 .p-30 {
   padding: 30px;
 }
+
 .relative {
   position: relative;
 }
@@ -95,6 +108,7 @@ body {
 .glassy {
   backdrop-filter: blur(18px);
 }
+
 .glassy.border {
   border: 1px solid gray;
 }
@@ -102,3 +116,15 @@ body {
 // .image {
 //   filter: hue-rotate(90deg);
 // }
+.button.responsive {
+  width: auto;
+
+  @media screen and (max-width: 500px) {
+    width: 100%;
+  }
+}
+
+
+a {
+  text-decoration: none;
+}

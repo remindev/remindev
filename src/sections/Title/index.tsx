@@ -89,17 +89,17 @@ const TitleSection = () => {
                   problem-solving and cares about writing readable and maintainable code. Passionate about making web applications fast and interactive.
                 </Highlight>
               </Text>
-              <Box className="flex align gap" mt={10}>
-                <a href="https://github.com/remintroy" target="_blank">
-                  <Button leftIcon={"/"}>Github</Button>
+              <Box className="flex align gap wrap" mt={10}>
+                <a className="button responsive" href="https://github.com/remintroy" target="_blank">
+                  <Button fullWidth leftIcon={"/"}>Github</Button>
                 </a>
-                <a href="https://www.linkedin.com/in/remin-t-roy/" target="_blank">
-                  <Button leftIcon={"/"} variant="outline">
+                <a className="button responsive" href="https://www.linkedin.com/in/remin-t-roy/" target="_blank">
+                  <Button fullWidth leftIcon={"/"} variant="outline">
                     LinkedIn
                   </Button>
                 </a>
-                <a href="https://www.instagram.com/remin_t_roy/" target="_blank">
-                  <Button leftIcon={"/"} variant="outline">
+                <a className="button responsive" href="https://www.instagram.com/remin_t_roy/" target="_blank">
+                  <Button fullWidth leftIcon={"/"} variant="outline">
                     Instagram
                   </Button>
                 </a>
